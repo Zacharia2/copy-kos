@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "c57cf4113434de50",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b437dcc6924251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e225388f9010bc5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04a8aa2b701f980a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e62bc21a6d6bcf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6a36b30e27e27d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "034bf930fe0dde02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aab260cebe88eba6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a0a51ad4f7935a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b32d3f2e811e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7627ec750f84645",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Yinxiang Biji/工具的定位和使用场景.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98c14b0c2bf840dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Yinxiang Biji/工具的定位和使用场景.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "944da20d76549d30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afe4f3b5c6af8f0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Yinxiang Biji/工具的定位和使用场景.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d6a36b30e27e27d4",
+  "lastOpenFiles": [
+    "Yinxiang Biji/笔记整理.md",
+    "Program/自然语言表达Python.md",
+    "GrowthK2S/UUTD.md",
+    "GrowthK2S/孵化器/052权限定义.md",
+    "GrowthK2S/孵化器/051泛型.md",
+    "GrowthK2S/孵化器/050表达式.md",
+    "GrowthK2S/孵化器/040-priority.md",
+    "GrowthK2S/孵化器/030边-序列.md",
+    "GrowthK2S/孵化器/029边-归于.md",
+    "GrowthK2S/孵化器/028边-多型.md",
+    "GrowthK2S/孵化器/027边-约束.md",
+    "GrowthK2S/孵化器/026边-引用.md",
+    "GrowthK2S/孵化器/025边-相似.md",
+    "GrowthK2S/孵化器/024边-组合.md",
+    "GrowthK2S/孵化器/023边-实现.md",
+    "GrowthK2S/孵化器/022边-抽象.md",
+    "GrowthK2S/孵化器/021边-集合.md",
+    "GrowthK2S/孵化器/016类-术语.md",
+    "GrowthK2S/孵化器/015类-概念.md",
+    "GrowthK2S/孵化器/014类-集合.md",
+    "GrowthK2S/孵化器/013类-任务.md",
+    "GrowthK2S/孵化器/012类-列表.md",
+    "GrowthK2S/孵化器/011类-实例.md",
+    "GrowthK2S/孵化器/010类-主题.md",
+    "GrowthK2S/孵化器/000点-创造.md",
+    "Program",
+    "README.md"
+  ]
+}
