@@ -11,8 +11,12 @@
             "id": "9e225388f9010bc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GrowthK2S/UTD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yinxiang Biji/工具的定位和使用场景.md",
+                "file": "GrowthK2S/UTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yinxiang Biji/工具的定位和使用场景.md",
+                "file": "GrowthK2S/UTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yinxiang Biji/工具的定位和使用场景.md"
+                "file": "GrowthK2S/UTD.md"
               }
             }
           }
@@ -142,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6a36b30e27e27d4",
+  "active": "9e225388f9010bc5",
   "lastOpenFiles": [
     "Yinxiang Biji/笔记整理.md",
     "Program/自然语言表达Python.md",
-    "GrowthK2S/UUTD.md",
+    "GrowthK2S/UTD.md",
     "GrowthK2S/孵化器/052权限定义.md",
     "GrowthK2S/孵化器/051泛型.md",
     "GrowthK2S/孵化器/050表达式.md",
