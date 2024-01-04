@@ -146,8 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6a36b30e27e27d4",
+  "active": "9e225388f9010bc5",
   "lastOpenFiles": [
+    "GrowthK2S/孵化器/013类-映射.md",
+    "GrowthK2S/孵化器/011类-概念.md",
+    "README.md",
+    "GrowthK2S/孵化器/020边-归于.md",
+    "GrowthK2S/孵化器/021边-层集.md",
+    "GrowthK2S/孵化器/022边-约束.md",
+    "GrowthK2S/孵化器/023边-引用.md",
+    "GrowthK2S/孵化器/024边-时序.md",
+    "GrowthK2S/孵化器/025边-同义.md",
+    "GrowthK2S/孵化器/026边-抽象.md",
+    "GrowthK2S/孵化器/027边-实现.md",
+    "GrowthK2S/孵化器/060鱼骨解构法.md",
+    "GrowthK2S/孵化器/059元素上下文.md",
+    "GrowthK2S/孵化器/058索引类型.md",
     "Attachment",
     "Attachment/c6341a3b82cbba841ff6d1bf3a5074d9.jpg",
     "GrowthK2S/UTD.md",
@@ -162,19 +176,6 @@
     "GrowthK2S/孵化器/028边-多型.md",
     "GrowthK2S/孵化器/027边-约束.md",
     "GrowthK2S/孵化器/026边-引用.md",
-    "GrowthK2S/孵化器/025边-相似.md",
-    "GrowthK2S/孵化器/024边-组合.md",
-    "GrowthK2S/孵化器/023边-实现.md",
-    "GrowthK2S/孵化器/022边-抽象.md",
-    "GrowthK2S/孵化器/021边-集合.md",
-    "GrowthK2S/孵化器/016类-术语.md",
-    "GrowthK2S/孵化器/015类-概念.md",
-    "GrowthK2S/孵化器/014类-集合.md",
-    "GrowthK2S/孵化器/013类-任务.md",
-    "GrowthK2S/孵化器/012类-列表.md",
-    "GrowthK2S/孵化器/011类-实例.md",
-    "GrowthK2S/孵化器/010类-主题.md",
-    "GrowthK2S/孵化器/000点-创造.md",
     "Program"
   ]
 }
