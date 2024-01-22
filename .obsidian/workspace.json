@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GrowthK2S/示例/数学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GrowthK2S/示例/数学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GrowthK2S/示例/数学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "GrowthK2S/示例/数学.md"
               }
             }
           }
@@ -143,14 +143,19 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "9e225388f9010bc5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-22 20.00.19.excalidraw.md",
+    "GrowthK2S/示例/数学.md",
+    "Attachment/Pasted image 20240122200651.png",
+    "Excalidraw",
+    "README.md",
     "GrowthK2S/孵化器/013类-映射.md",
     "GrowthK2S/孵化器/011类-概念.md",
-    "README.md",
     "GrowthK2S/孵化器/020边-归于.md",
     "GrowthK2S/孵化器/021边-层集.md",
     "GrowthK2S/孵化器/022边-约束.md",
@@ -173,9 +178,6 @@
     "GrowthK2S/孵化器/040-priority.md",
     "GrowthK2S/孵化器/030边-序列.md",
     "GrowthK2S/孵化器/029边-归于.md",
-    "GrowthK2S/孵化器/028边-多型.md",
-    "GrowthK2S/孵化器/027边-约束.md",
-    "GrowthK2S/孵化器/026边-引用.md",
     "Program"
   ]
 }
