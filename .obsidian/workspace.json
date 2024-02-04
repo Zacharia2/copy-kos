@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "24b437dcc6924251",
+        "id": "d42a235b406bd2dc",
         "type": "tabs",
         "children": [
           {
-            "id": "9e225388f9010bc5",
+            "id": "3eb63e407064010b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer-Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer-Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,14 +135,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9e225388f9010bc5",
+  "active": "3eb63e407064010b",
   "lastOpenFiles": [
+    "GrowthK2S/孵化器/061笔记的数据结构.md",
+    "GrowthK2S/思海/Zettelkasten(Slip-box).md",
+    "Attachment/1707040641661.png",
+    "GrowthK2S/孵化器/060鱼骨解构法.md",
+    "GrowthK2S/思海/Heterarchy.md",
+    "GrowthK2S/思海/Library_of_Congress_Classification.md",
+    "README.md",
+    "Computer-Notes.md",
+    "GrowthK2S/孵化器/002ID.md",
+    "GrowthK2S/思海/元数据（Metadata）.md",
+    "GrowthK2S/孵化器/003索引表.md",
     "GrowthK2S/思海/Obsidian插件.md",
     "GrowthK2S/示例/文学分类.md",
     "GrowthK2S/示例/描述文字与描述对象.md",
     "GrowthK2S/README.md",
-    "Computer-Notes.md",
-    "README.md",
     "GrowthK2S/施工中.md",
     "Excalidraw/Drawing 2024-01-22 20.00.19.excalidraw.md",
     "GrowthK2S/示例/认知科学.md",
@@ -164,15 +165,6 @@
     "Attachment/Pasted image 20240122200651.png",
     "Excalidraw",
     "GrowthK2S/孵化器/013类-映射.md",
-    "GrowthK2S/孵化器/011类-概念.md",
-    "GrowthK2S/孵化器/020边-归于.md",
-    "GrowthK2S/孵化器/021边-层集.md",
-    "GrowthK2S/孵化器/022边-约束.md",
-    "GrowthK2S/孵化器/023边-引用.md",
-    "GrowthK2S/孵化器/024边-时序.md",
-    "GrowthK2S/孵化器/025边-同义.md",
-    "GrowthK2S/孵化器/026边-抽象.md",
-    "GrowthK2S/孵化器/027边-实现.md",
     "Attachment",
     "Attachment/c6341a3b82cbba841ff6d1bf3a5074d9.jpg",
     "Program"
