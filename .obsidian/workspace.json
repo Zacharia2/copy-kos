@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e138d263d5cf38cb",
+        "id": "2b654fe403749534",
         "type": "tabs",
         "children": [
           {
-            "id": "beb27affae05c50a",
+            "id": "5fee0906fc5d5247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md",
+                "file": "GrowthK2S/示例/索引表/索引表集.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md",
+                "file": "GrowthK2S/示例/索引表/索引表集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md",
+                "file": "GrowthK2S/示例/索引表/索引表集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md"
+                "file": "GrowthK2S/示例/索引表/索引表集.md"
               }
             }
           }
@@ -143,13 +143,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "beb27affae05c50a",
+  "active": "d6a36b30e27e27d4",
   "lastOpenFiles": [
+    "GrowthK2S/孵化器/003索引表集.md",
+    "GrowthK2S/示例/索引表/索引表集.md",
+    "GrowthK2S/示例/索引表",
+    "GrowthK2S/示例/元素集/1 现代科学.md",
+    "GrowthK2S/示例/元素集/1.2a 感觉.md",
+    "GrowthK2S/示例/元素集",
+    "GrowthK2S/示例/元素集/1.2b 事物的多元要素.md",
+    "GrowthK2S/示例/元素集/1.3 光谱学.md",
+    "GrowthK2S/示例/元素集/2 哲学.md",
+    "GrowthK2S/示例/元素集/3 文学分类.md",
+    "GrowthK2S/示例/元素集/2.1 文字描述与描述实体.md",
+    "GrowthK2S/示例/元素集/1.2 认知科学.md",
+    "GrowthK2S/示例/元素集/1.1b 概念渐构.md",
+    "GrowthK2S/示例/元素集/1.1a 复利学习.md",
+    "GrowthK2S/示例/元素集/1.1 数学.md",
+    "GrowthK2S/孵化器/056保持原貌.md",
+    "GrowthK2S/孵化器/041-权重.md",
+    "GrowthK2S/孵化器/061笔记的数据结构.md",
+    "GrowthK2S/思海/如何把所学知识内化为自己的.md",
     "Attachment/Pasted image 20240207112619.jpg",
     "Attachment/Pasted image 20240207112608.jpg",
     "Attachment/Pasted image 20240207112556.jpg",
     "Attachment/Pasted image 20240207112545.jpg",
-    "GrowthK2S/孵化器/061笔记的数据结构.md",
     "GrowthK2S/施工中.md",
     "README.md",
     "GrowthK2S/思海/我们可以通过什么方式在笔记之间建立有用的关系？.md",
@@ -162,25 +180,9 @@
     "GrowthK2S/思海/数据结构化利器——标签.md",
     "GrowthK2S/孵化器/060鱼骨解构法.md",
     "GrowthK2S/孵化器/GrowthK2S.md",
-    "GrowthK2S/思海/如何把所学知识内化为自己的.md",
     "GrowthK2S/思海/一些启示.md",
     "GrowthK2S/思海/网状思考&层级语言.md",
     "Computer-Notes.md",
-    "GrowthK2S/孵化器/003索引表集.md",
-    "GrowthK2S/思海/元素的渐构.md",
-    "GrowthK2S/孵化器/000点-创造.md",
-    "GrowthK2S/孵化器/059元素上下文.md",
-    "GrowthK2S/思海/典型数据结构.md",
-    "GrowthK2S/思海/实践论.md",
-    "GrowthK2S/思海/矛盾论.md",
-    "GrowthK2S/思海/知识结构化：一种必备的学习素养.md",
-    "GrowthK2S/思海/综述文件.md",
-    "GrowthK2S/思海/Obsidian插件.md",
-    "GrowthK2S/思海/Zettelkasten(Slip-box).md",
-    "GrowthK2S/思海/Heterarchy.md",
-    "GrowthK2S/思海/中国图书馆分类法（第5版）.md",
-    "GrowthK2S/思海/元数据（Metadata）.md",
-    "Attachment/1707040641661.png",
     "Excalidraw",
     "Attachment",
     "Program"
