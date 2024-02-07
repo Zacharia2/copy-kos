@@ -11,8 +11,12 @@
             "id": "beb27affae05c50a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GrowthK2S/思海/如何把所学知识内化为自己的.md"
+              }
             }
           }
         ]
@@ -137,6 +145,10 @@
   },
   "active": "beb27affae05c50a",
   "lastOpenFiles": [
+    "Attachment/Pasted image 20240207112619.jpg",
+    "Attachment/Pasted image 20240207112608.jpg",
+    "Attachment/Pasted image 20240207112556.jpg",
+    "Attachment/Pasted image 20240207112545.jpg",
     "GrowthK2S/孵化器/061笔记的数据结构.md",
     "GrowthK2S/施工中.md",
     "README.md",
@@ -169,10 +181,8 @@
     "GrowthK2S/思海/中国图书馆分类法（第5版）.md",
     "GrowthK2S/思海/元数据（Metadata）.md",
     "Attachment/1707040641661.png",
-    "Attachment/Pasted image 20240122200651.png",
     "Excalidraw",
     "Attachment",
-    "Attachment/c6341a3b82cbba841ff6d1bf3a5074d9.jpg",
     "Program"
   ]
 }
