@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2b654fe403749534",
+        "id": "2547ab7176ac308e",
         "type": "tabs",
         "children": [
           {
-            "id": "5fee0906fc5d5247",
+            "id": "3699f83c045cc36d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GrowthK2S/示例/索引表/索引表集.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/示例/索引表/索引表集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/示例/索引表/索引表集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GrowthK2S/示例/索引表/索引表集.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,10 +135,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6a36b30e27e27d4",
+  "active": "3699f83c045cc36d",
   "lastOpenFiles": [
-    "GrowthK2S/孵化器/003索引表集.md",
+    "GrowthK2S/孵化器/021边-层集.md",
+    "GrowthK2S/孵化器/000点-创造.md",
+    "GrowthK2S/孵化器/061笔记的数据结构.md",
+    "GrowthK2S/孵化器/013类-映射.md",
+    "GrowthK2S/孵化器/030边-相关.md",
+    "GrowthK2S/孵化器/011类-概念.md",
     "GrowthK2S/示例/索引表/索引表集.md",
+    "GrowthK2S/孵化器/003索引表集.md",
     "GrowthK2S/示例/索引表",
     "GrowthK2S/示例/元素集/1 现代科学.md",
     "GrowthK2S/示例/元素集/1.2a 感觉.md",
@@ -162,7 +160,6 @@
     "GrowthK2S/示例/元素集/1.1 数学.md",
     "GrowthK2S/孵化器/056保持原貌.md",
     "GrowthK2S/孵化器/041-权重.md",
-    "GrowthK2S/孵化器/061笔记的数据结构.md",
     "GrowthK2S/思海/如何把所学知识内化为自己的.md",
     "Attachment/Pasted image 20240207112619.jpg",
     "Attachment/Pasted image 20240207112608.jpg",
@@ -178,11 +175,6 @@
     "Attachment/1_uCSHtOqZCE3izP1-l_6RUQ.webp",
     "Attachment/1_SMU0M-iBKedBR6PwUKrayw.webp",
     "GrowthK2S/思海/数据结构化利器——标签.md",
-    "GrowthK2S/孵化器/060鱼骨解构法.md",
-    "GrowthK2S/孵化器/GrowthK2S.md",
-    "GrowthK2S/思海/一些启示.md",
-    "GrowthK2S/思海/网状思考&层级语言.md",
-    "Computer-Notes.md",
     "Excalidraw",
     "Attachment",
     "Program"
