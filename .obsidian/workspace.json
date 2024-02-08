@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "GrowthK2S/孵化器/004或与.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "GrowthK2S/孵化器/004或与.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "GrowthK2S/孵化器/004或与.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md"
+                "file": "GrowthK2S/孵化器/004或与.md"
               }
             }
           }
@@ -145,14 +145,16 @@
   },
   "active": "3699f83c045cc36d",
   "lastOpenFiles": [
+    "GrowthK2S/思海/联合类型（Union Types）、交叉类型（Intersection Types）有什么区别？.md",
+    "GrowthK2S/孵化器/004或与.md",
+    "GrowthK2S/孵化器/003索引集.md",
+    "GrowthK2S/孵化器/061笔记的数据结构.md",
     "GrowthK2S/孵化器/021边-层集.md",
     "GrowthK2S/孵化器/000点-创造.md",
-    "GrowthK2S/孵化器/061笔记的数据结构.md",
     "GrowthK2S/孵化器/013类-映射.md",
     "GrowthK2S/孵化器/030边-相关.md",
     "GrowthK2S/孵化器/011类-概念.md",
     "GrowthK2S/示例/索引表/索引表集.md",
-    "GrowthK2S/孵化器/003索引表集.md",
     "GrowthK2S/示例/索引表",
     "GrowthK2S/示例/元素集/1 现代科学.md",
     "GrowthK2S/示例/元素集/1.2a 感觉.md",
@@ -175,14 +177,12 @@
     "Attachment/Pasted image 20240207112545.jpg",
     "GrowthK2S/施工中.md",
     "README.md",
-    "GrowthK2S/思海/我们可以通过什么方式在笔记之间建立有用的关系？.md",
     "Attachment/1_XDjhBzNev_j-6EnXRFoc3Q.webp",
     "Attachment/1_-zaTKc2p6Bv_lGR7DCwHmQ.webp",
     "Attachment/1__2jKjcURnsgnTmDCZWspuA.webp",
     "Attachment/1_uzcKVhnrPyQ6bNNwEuCP6Q.webp",
     "Attachment/1_uCSHtOqZCE3izP1-l_6RUQ.webp",
     "Attachment/1_SMU0M-iBKedBR6PwUKrayw.webp",
-    "GrowthK2S/思海/数据结构化利器——标签.md",
     "Excalidraw",
     "Attachment",
     "Program"
