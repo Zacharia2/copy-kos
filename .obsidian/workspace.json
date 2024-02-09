@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GrowthK2S/孵化器/004或与.md",
+                "file": "GrowthK2S/思海/知识组织.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/孵化器/004或与.md",
+                "file": "GrowthK2S/思海/知识组织.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/孵化器/004或与.md",
+                "file": "GrowthK2S/思海/知识组织.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GrowthK2S/孵化器/004或与.md"
+                "file": "GrowthK2S/思海/知识组织.md"
               }
             }
           }
@@ -145,10 +145,21 @@
   },
   "active": "3699f83c045cc36d",
   "lastOpenFiles": [
-    "GrowthK2S/思海/联合类型（Union Types）、交叉类型（Intersection Types）有什么区别？.md",
-    "GrowthK2S/孵化器/004或与.md",
-    "GrowthK2S/孵化器/003索引集.md",
+    "GrowthK2S/思海/知识表征.md",
+    "GrowthK2S/思海/知识组织.md",
     "GrowthK2S/孵化器/061笔记的数据结构.md",
+    "GrowthK2S/思海/手动更新结构检索系列想法.md",
+    "GrowthK2S/示例/元素集/3 文学分类.md",
+    "GrowthK2S/示例/元素集/2.1 文字描述与描述实体.md",
+    "GrowthK2S/示例/元素集/2 哲学.md",
+    "GrowthK2S/示例/元素集/1.3 光谱学.md",
+    "GrowthK2S/示例/元素集/1.2b 事物的多元要素.md",
+    "GrowthK2S/示例/元素集/1.2a 感觉.md",
+    "GrowthK2S/示例/元素集/1.2 认知科学.md",
+    "GrowthK2S/孵化器/004或与.md",
+    "GrowthK2S/思海/hi.md",
+    "GrowthK2S/思海/联合类型（Union Types）、交叉类型（Intersection Types）有什么区别？.md",
+    "GrowthK2S/孵化器/003索引集.md",
     "GrowthK2S/孵化器/021边-层集.md",
     "GrowthK2S/孵化器/000点-创造.md",
     "GrowthK2S/孵化器/013类-映射.md",
@@ -157,26 +168,15 @@
     "GrowthK2S/示例/索引表/索引表集.md",
     "GrowthK2S/示例/索引表",
     "GrowthK2S/示例/元素集/1 现代科学.md",
-    "GrowthK2S/示例/元素集/1.2a 感觉.md",
     "GrowthK2S/示例/元素集",
-    "GrowthK2S/示例/元素集/1.2b 事物的多元要素.md",
-    "GrowthK2S/示例/元素集/1.3 光谱学.md",
-    "GrowthK2S/示例/元素集/2 哲学.md",
-    "GrowthK2S/示例/元素集/3 文学分类.md",
-    "GrowthK2S/示例/元素集/2.1 文字描述与描述实体.md",
-    "GrowthK2S/示例/元素集/1.2 认知科学.md",
     "GrowthK2S/示例/元素集/1.1b 概念渐构.md",
     "GrowthK2S/示例/元素集/1.1a 复利学习.md",
     "GrowthK2S/示例/元素集/1.1 数学.md",
     "GrowthK2S/孵化器/056保持原貌.md",
-    "GrowthK2S/孵化器/041-权重.md",
-    "GrowthK2S/思海/如何把所学知识内化为自己的.md",
     "Attachment/Pasted image 20240207112619.jpg",
     "Attachment/Pasted image 20240207112608.jpg",
     "Attachment/Pasted image 20240207112556.jpg",
     "Attachment/Pasted image 20240207112545.jpg",
-    "GrowthK2S/施工中.md",
-    "README.md",
     "Attachment/1_XDjhBzNev_j-6EnXRFoc3Q.webp",
     "Attachment/1_-zaTKc2p6Bv_lGR7DCwHmQ.webp",
     "Attachment/1__2jKjcURnsgnTmDCZWspuA.webp",
