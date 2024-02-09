@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2547ab7176ac308e",
+        "id": "e2bd72a548d17492",
         "type": "tabs",
         "children": [
           {
-            "id": "3699f83c045cc36d",
+            "id": "f3ad1f8fa666a942",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GrowthK2S/思海/知识组织.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/思海/知识组织.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/思海/知识组织.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GrowthK2S/思海/知识组织.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,36 +135,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3699f83c045cc36d",
+  "active": "f3ad1f8fa666a942",
   "lastOpenFiles": [
-    "GrowthK2S/思海/知识表征.md",
-    "GrowthK2S/思海/知识组织.md",
+    "GrowthK2S/孵化器/002TreeID.md",
     "GrowthK2S/孵化器/061笔记的数据结构.md",
+    "GrowthK2S/孵化器/029边-相关.md",
+    "GrowthK2S/孵化器/052权限定义.md",
+    "GrowthK2S/孵化器/024边-同义.md",
+    "GrowthK2S/孵化器/003索引集.md",
+    "GrowthK2S/孵化器/004或与.md",
+    "GrowthK2S/孵化器/006层集树.md",
+    "GrowthK2S/孵化器/000点-创造.md",
+    "GrowthK2S/孵化器/001起始页.md",
+    "GrowthK2S/孵化器/028边-分解.md",
+    "GrowthK2S/孵化器/027边-组合.md",
+    "GrowthK2S/孵化器/026边-实现.md",
+    "GrowthK2S/孵化器/025边-抽象.md",
+    "GrowthK2S/孵化器/023边-时序.md",
+    "GrowthK2S/孵化器/022边-引用.md",
+    "GrowthK2S/孵化器/021边-约束.md",
+    "GrowthK2S/孵化器/020边-归于.md",
+    "GrowthK2S/思海/知识组织.md",
+    "GrowthK2S/思海/知识表征.md",
     "GrowthK2S/思海/手动更新结构检索系列想法.md",
     "GrowthK2S/示例/元素集/3 文学分类.md",
     "GrowthK2S/示例/元素集/2.1 文字描述与描述实体.md",
     "GrowthK2S/示例/元素集/2 哲学.md",
     "GrowthK2S/示例/元素集/1.3 光谱学.md",
     "GrowthK2S/示例/元素集/1.2b 事物的多元要素.md",
-    "GrowthK2S/示例/元素集/1.2a 感觉.md",
-    "GrowthK2S/示例/元素集/1.2 认知科学.md",
-    "GrowthK2S/孵化器/004或与.md",
-    "GrowthK2S/思海/hi.md",
-    "GrowthK2S/思海/联合类型（Union Types）、交叉类型（Intersection Types）有什么区别？.md",
-    "GrowthK2S/孵化器/003索引集.md",
-    "GrowthK2S/孵化器/021边-层集.md",
-    "GrowthK2S/孵化器/000点-创造.md",
-    "GrowthK2S/孵化器/013类-映射.md",
-    "GrowthK2S/孵化器/030边-相关.md",
-    "GrowthK2S/孵化器/011类-概念.md",
-    "GrowthK2S/示例/索引表/索引表集.md",
     "GrowthK2S/示例/索引表",
-    "GrowthK2S/示例/元素集/1 现代科学.md",
     "GrowthK2S/示例/元素集",
-    "GrowthK2S/示例/元素集/1.1b 概念渐构.md",
-    "GrowthK2S/示例/元素集/1.1a 复利学习.md",
-    "GrowthK2S/示例/元素集/1.1 数学.md",
-    "GrowthK2S/孵化器/056保持原貌.md",
     "Attachment/Pasted image 20240207112619.jpg",
     "Attachment/Pasted image 20240207112608.jpg",
     "Attachment/Pasted image 20240207112556.jpg",
