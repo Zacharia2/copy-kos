@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "GrowthK2S/示例/元素集/1.1 数学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "GrowthK2S/示例/元素集/1.1 数学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "GrowthK2S/示例/元素集/1.1 数学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md"
+                "file": "GrowthK2S/示例/元素集/1.1 数学.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "f3ad1f8fa666a942",
   "lastOpenFiles": [
-    "GrowthK2S/孵化器/002TreeID.md",
     "GrowthK2S/孵化器/061笔记的数据结构.md",
+    "GrowthK2S/孵化器/002TreeID.md",
     "未命名.md",
     "GrowthK2S/孵化器/029边-相关.md",
     "GrowthK2S/孵化器/052权限定义.md",
