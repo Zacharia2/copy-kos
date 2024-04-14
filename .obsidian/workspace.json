@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GrowthK2S/孵化器/061笔记的数据结构.md"
+                "file": "README.md"
               }
             }
           }
@@ -145,6 +145,7 @@
   },
   "active": "f3ad1f8fa666a942",
   "lastOpenFiles": [
+    "GrowthK2S/孵化器/061笔记的拓扑结构.md",
     "GrowthK2S/示例/元素集/1.1 数学.md",
     "GrowthK2S/孵化器/061笔记的数据结构.md",
     "GrowthK2S/孵化器/002TreeID.md",
@@ -170,7 +171,6 @@
     "GrowthK2S/思海/手动更新结构检索系列想法.md",
     "GrowthK2S/示例/元素集/3 文学分类.md",
     "GrowthK2S/示例/元素集/2.1 文字描述与描述实体.md",
-    "GrowthK2S/示例/元素集/2 哲学.md",
     "GrowthK2S/示例/索引表",
     "GrowthK2S/示例/元素集",
     "Attachment/Pasted image 20240207112619.jpg",
