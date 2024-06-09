@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72093d3997b3758d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KG知识图谱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Notes.md",
+                "file": "KG知识图谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Notes.md",
+                "file": "KG知识图谱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Notes.md"
+                "file": "KG知识图谱.md"
               }
             }
           }
@@ -140,11 +153,25 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f3ad1f8fa666a942",
+  "active": "72093d3997b3758d",
   "lastOpenFiles": [
+    "Computer-Notes.md",
+    "KG知识图谱.md",
+    "Attachment/使用步骤.gif",
+    "Attachment/Pasted image 20221007193220.png",
+    "Attachment/Pasted image 20221006150351.png",
+    "Attachment/Pasted image 20221105230837.gif",
+    "Attachment/Pasted image 20221007203325.gif",
+    "Attachment/Pasted image 20221006150723.png",
+    "Attachment/Pasted image 20221006150351.gif",
+    "Attachment/Pasted image 20221006145916.gif",
+    "Attachment/Pasted image 20221006145916.png",
+    "Attachment/Pasted image 20221006145129.png",
+    "附件",
     "README.md",
     "GrowthK2S/孵化器/GrowthK2S.md",
     "Topology/README.md",
@@ -154,7 +181,6 @@
     "Topology/GrowthK2S/示例/元素集/1.1 数学.md",
     "GrowthK2S/孵化器/061笔记的数据结构.md",
     "Topology/GrowthK2S/孵化器/002TreeID.md",
-    "未命名.md",
     "Topology/GrowthK2S/孵化器/029边-相关.md",
     "Topology/GrowthK2S/孵化器/052权限定义.md",
     "Topology/GrowthK2S/孵化器/024边-同义.md",
@@ -170,20 +196,8 @@
     "Topology/GrowthK2S/孵化器/022边-引用.md",
     "Topology/GrowthK2S/孵化器/021边-约束.md",
     "Topology/GrowthK2S/孵化器/020边-归于.md",
-    "Topology/GrowthK2S/思海/知识组织.md",
-    "Topology/GrowthK2S/思海/知识表征.md",
     "Topology/GrowthK2S/示例/索引表",
     "Topology/GrowthK2S/示例/元素集",
-    "Topology/Attachment/Pasted image 20240207112619.jpg",
-    "Topology/Attachment/Pasted image 20240207112608.jpg",
-    "Topology/Attachment/Pasted image 20240207112556.jpg",
-    "Topology/Attachment/Pasted image 20240207112545.jpg",
-    "Topology/Attachment/1_XDjhBzNev_j-6EnXRFoc3Q.webp",
-    "Topology/Attachment/1_-zaTKc2p6Bv_lGR7DCwHmQ.webp",
-    "Topology/Attachment/1__2jKjcURnsgnTmDCZWspuA.webp",
-    "Topology/Attachment/1_uzcKVhnrPyQ6bNNwEuCP6Q.webp",
-    "Topology/Attachment/1_uCSHtOqZCE3izP1-l_6RUQ.webp",
-    "Topology/Attachment/1_SMU0M-iBKedBR6PwUKrayw.webp",
     "Excalidraw",
     "Topology/Attachment",
     "Program"
